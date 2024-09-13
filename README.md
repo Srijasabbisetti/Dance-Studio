@@ -1,4 +1,6 @@
-Dance Studio
+# Dance Studio
+
+
 This project Dance Studio is an online website which provides a platform for all age groups to learn and excel in the most amazing and loved field called Dance. It has various famous choreographers available to train the candidates.
 
 It also provides a safe and fun environment that allows every individual in developing skills. Here candidates are given opportunities to take part in various competitions in the studio.
